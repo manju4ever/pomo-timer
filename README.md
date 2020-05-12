@@ -1,4 +1,4 @@
-### [Demo Link!](https://manju4ever.github.io/pomo-timer)
+### [Click here for a demo](https://manju4ever.github.io/pomo-timer)
 
 > A simple timer to increase focus and productivity (The Pomodoro Technique)
 
