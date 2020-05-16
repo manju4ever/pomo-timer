@@ -55,6 +55,7 @@ const stopwatch = (timeToEnd = 10, unit = 's') => {
     }
 
     function _stop() {
+      isRunning = false;
       clearInterval(counter);
       console.log(`Timer stopped !`);
     }

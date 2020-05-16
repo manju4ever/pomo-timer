@@ -26,14 +26,12 @@ function App() {
   }
 
   const startTimer = () => {
-      if(!watch.isRunning()) {
-        watch.start();
-        const ic = setInterval(() => {
-         window.document.title = watch.timeRemaining();
-         setTime(watch.timeRemaining());
-         if(watch.isStopped()) clearInterval(ic);
-        }, 800);
-      }
+    watch.start();
+    const ic = setInterval(() => {
+      window.document.title = watch.timeRemaining();
+      setTime(watch.timeRemaining());
+      if(watch.isStopped()) clearInterval(ic);
+    }, 800);
   }
 
   const stopTimer = () => {
