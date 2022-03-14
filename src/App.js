@@ -48,7 +48,7 @@ function App() {
   // Render block - how to rerun ?
   return (
     <div className="container" style={{
-      background: `URL(https://i.picsum.photos/id/619/2200/1200.jpg)`
+      background: `URL(https://i.picsum.photos/id/1019/2200/1200.jpg)`
     }} onClick={changeColor}>
         <div className="stopwatch">
             <h1>{time}</h1>
