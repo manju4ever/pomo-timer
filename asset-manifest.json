@@ -1,22 +1,13 @@
 {
   "files": {
-    "main.css": "/pomo-timer/static/css/main.f4e4ad78.chunk.css",
-    "main.js": "/pomo-timer/static/js/main.347ef285.chunk.js",
-    "main.js.map": "/pomo-timer/static/js/main.347ef285.chunk.js.map",
-    "runtime-main.js": "/pomo-timer/static/js/runtime-main.54c947ed.js",
-    "runtime-main.js.map": "/pomo-timer/static/js/runtime-main.54c947ed.js.map",
-    "static/js/2.e1bba15b.chunk.js": "/pomo-timer/static/js/2.e1bba15b.chunk.js",
-    "static/js/2.e1bba15b.chunk.js.map": "/pomo-timer/static/js/2.e1bba15b.chunk.js.map",
+    "main.css": "/pomo-timer/static/css/main.abe8ab5b.css",
+    "main.js": "/pomo-timer/static/js/main.798ff633.js",
     "index.html": "/pomo-timer/index.html",
-    "precache-manifest.2be9bad2f8c0a4bd23271ac9b21843d4.js": "/pomo-timer/precache-manifest.2be9bad2f8c0a4bd23271ac9b21843d4.js",
-    "service-worker.js": "/pomo-timer/service-worker.js",
-    "static/css/main.f4e4ad78.chunk.css.map": "/pomo-timer/static/css/main.f4e4ad78.chunk.css.map",
-    "static/js/2.e1bba15b.chunk.js.LICENSE.txt": "/pomo-timer/static/js/2.e1bba15b.chunk.js.LICENSE.txt"
+    "main.abe8ab5b.css.map": "/pomo-timer/static/css/main.abe8ab5b.css.map",
+    "main.798ff633.js.map": "/pomo-timer/static/js/main.798ff633.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.54c947ed.js",
-    "static/js/2.e1bba15b.chunk.js",
-    "static/css/main.f4e4ad78.chunk.css",
-    "static/js/main.347ef285.chunk.js"
+    "static/css/main.abe8ab5b.css",
+    "static/js/main.798ff633.js"
   ]
 }
