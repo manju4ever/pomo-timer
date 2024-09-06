@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://manju4ever.github.io/pomo-timer",
   "dependencies": {
-    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^7.2.1",
     "react": "  ^16.13.1",
